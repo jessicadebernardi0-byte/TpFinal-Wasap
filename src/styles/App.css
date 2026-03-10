@@ -663,7 +663,7 @@ body {
     }
 }
 
-@media (min-width: 800px) {
+@media (min-width: 700px) {
     .contacts-grid {
         grid-template-columns: repeat(4, 1fr);
     }
